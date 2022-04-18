@@ -13,3 +13,20 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ![Lot Summary](https://github.com/jkannis/MechaCar_Statistical_Analysis/blob/main/Resources/LotSummary.png)
 
 When viewing the statistics by lot we discover that lots one and two of suspension coils are well within the required specifications, but lot three is well outside the required specifications.
+
+## T-Tests on Suspension Coils
+![Overall Suspension T-Test](https://github.com/jkannis/MechaCar_Statistical_Analysis/blob/main/Resources/OverallSuspensionTTest.png)
+
+As seen in the image above, when evaluating all manufacturing lots together they are very close to the population mean of 1500.
+
+![Lot 1 Suspension T-Test](https://github.com/jkannis/MechaCar_Statistical_Analysis/blob/main/Resources/Lot1_SuspensionTTest.png)
+
+When testing just for Lot 1, we find that this lot is exactly the same as the population mean.
+
+![Lot 2 Suspension T-Test](https://github.com/jkannis/MechaCar_Statistical_Analysis/blob/main/Resources/Lot2_SuspensionTTest.png)
+
+When testing just for Lot 2, we find that this lot is very close, but just over the population mean.
+
+![Lot 3 Suspension T-Test](https://github.com/jkannis/MechaCar_Statistical_Analysis/blob/main/Resources/Lot3_SuspensionTTest.png)
+
+When testing just for Lot 3, we find  that this lot is quite close, but just under the population mean.
