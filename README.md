@@ -30,3 +30,8 @@ When testing just for Lot 2, we find that this lot is very close, but just over 
 ![Lot 3 Suspension T-Test](https://github.com/jkannis/MechaCar_Statistical_Analysis/blob/main/Resources/Lot3_SuspensionTTest.png)
 
 When testing just for Lot 3, we find  that this lot is quite close, but just under the population mean.
+
+## Study Design: MechaCar vs Competition
+To determine how the MechaCar performs against the competition we would first need to determine who the target consumer is for the MechaCar. This detail would help identify which metrics would be important to compare against the competition, as well as specifically which models actually are the competition.
+
+For example, if the target consumer were a family, then the safety rating might be the most important metric. Crash testing, airbag details, and other safety feature data would be needed if this were the focus. Alternatively, if a business cummuter were the target consumer, they may still be interested in the safety features, but their top priority might be fuel efficiency. This test would require data regarding engine size and MPG. Both of these cases could be evaluated using multiple linear regression. 
